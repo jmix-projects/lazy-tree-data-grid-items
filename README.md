@@ -1,4 +1,4 @@
-== Lazy TreeDataGrid Items
+# Lazy TreeDataGrid Items
 
 The project contains an example of implementing lazy data loading for `TreeDataGrid`.
 
